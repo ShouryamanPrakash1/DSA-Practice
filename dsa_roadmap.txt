@@ -1,0 +1,51 @@
+Week-1
+
+- Mathematics 
+- Basic Recursion 
+- Arrays
+
+Week-2
+
+- Bit Magic
+- Matrix 
+- Searching
+
+Week-3 
+
+- Sorting 
+- Hashing
+
+Week-4
+
+- Strings
+- Linked list 
+
+Week-5
+
+- Stacks
+- Queue
+
+Week-6
+
+- Tree 
+- Binary Search Tree
+
+Week-7
+
+- Heaps
+- Graphs 
+
+Week-8
+
+- Recursion and Backtracking
+- Dynamic Programming
+
+Week-9
+
+- Graphs Algorithm
+
+Week-10
+
+- Trie
+- Segment Trees
+- Disjoint Segment
